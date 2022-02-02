@@ -1,24 +1,17 @@
 ---
 layout: about
-title: about
+title: About - Beining
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: <a href='https://stat.ustc.edu.cn'>Department of Statistics and Finance, SOM, University of Science and Technology of China</a>. Mail: andrewwu@mail.ustc.edu.cn
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my homepage! My name is Beining Wu (吴贝宁). I'm a junior undergraduate from <i><a href="https://bs.ustc.edu.cn">the School of Management</a>, <a href="https://www.ustc.edu.cn">University of Science and Technology of China</a></i> (USTC). Now I'm pursuing a B.S. degree in <b>statistics</b>. My recent resarch interests contain high dimensional statistical inference problem and its application to machine learning problem, network analysis and theoretical reinforcement learning problem. Curruntly, I'm starting my research career under the supervision of <a href="http://staff.ustc.edu.cn/~zwp">Prof. Weiping Zhang</a>. I'll apply for 2023 fall Ph.D. programs.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+The page is still under construction. Feel free to look around or reach me in email.
