@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://stat.ustc.edu.cn'>Department of Statistics and Finance, SOM, University of Science and Technology of China</a>. Mail: andrewwu@mail.ustc.edu.cn
+subtitle: <a href='https://stat.ustc.edu.cn'>Department of Statistics and Finance, SOM, University of Science and Technology of China</a>. andrewwu at mail.ustc.edu.cn
 profile:
   align: right
   image: prof_pic.jpg
