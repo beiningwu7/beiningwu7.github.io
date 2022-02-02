@@ -15,7 +15,7 @@ footer_text: >
 keywords:  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ustcblack.png # the emoji used as the favicon
+icon: 🀅 # the emoji used as the favicon
 url: https://beiningwu7.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
@@ -55,7 +55,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: beiningwu7 # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: beining_wu# your Twitter handle
+twitter_username: beining_wu # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
