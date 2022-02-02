@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About - Beining
+title: about
 permalink: /
 subtitle: <a href='https://stat.ustc.edu.cn'>Department of Statistics and Finance, SOM, University of Science and Technology of China</a>. Mail: andrewwu@mail.ustc.edu.cn
 profile:
