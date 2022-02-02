@@ -294,7 +294,6 @@ footer.sticky-bottom {
   color: $grey-color;
   font-size: 0.9375;
   margin-left: -$horizontal-spacing-unit / 2;
-  @extend .clearfix;
 }
 
 .footer-col {
