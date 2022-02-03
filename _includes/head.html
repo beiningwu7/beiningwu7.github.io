@@ -20,10 +20,3 @@
     {%- endif %}
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-
-    {%- if site.enable_darkmode %}
-
-    <!-- Dark Mode -->
-    <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
-    <script src="{{ '/assets/js/dark_mode.js' | relative_url }}"></script>
-    {%- endif -%}
