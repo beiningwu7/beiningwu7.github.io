@@ -3,20 +3,41 @@ layout: default
 ---
 <div class="post">
 
-  <header class="post-header about">
-    <img class="logo" src="{{ page.logo | prepend: '/assets/img/' | relative_url }}">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <h2 class="post-description clearfix">{{ page.description }}</h2>
+  <header class="post-header">
+    <h1 class="post-title">
+     {% if site.title == "blank" %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{% else %}{{ site.title }}{% endif %}
+    </h1>
+     <p class="desc">{{ page.description }}</p>
   </header>
 
-  <article class="post-content {{page.title}} clearfix">
-    {{ content }}
+  <article>
+    {% if page.profile %}
+    <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+      {% if page.profile.image %}
+        {% responsive_image_block %}
+          path: {{ page.profile.image | prepend: 'assets/img/' }}
+          class: "img-fluid z-depth-1 rounded"
+        {% endresponsive_image_block %}
+      {% endif %}
+      {% if page.profile.address %}
+        <div class="address">
+          {{ page.profile.address }}
+        </div>
+      {% endif %}
+    </div>
+    {% endif %}
+
+    <div class="clearfix">
+      {{ content }}
+    </div>
+
+    {% if page.news %}
+      {% include news.html %}
+    {% endif %}
+
+    {% if page.selected_papers %}
+      {% include selected_papers.html %}
+    {% endif %}
   </article>
-
-  <!-- Staff  -->
-  {% include staff.html %}
-
-  <!-- Announcements  -->
-  {% include announcements.html %}
 
 </div>
