@@ -5,6 +5,7 @@ nav: true
 dropdown: true
 children: 
     - title: Mathematical Statistics - Spring 2022
-      permalink: beiningwu7.github.io/ms
-
+      permalink: /ms
+    - title: Differential Equations - Fall 2021
+    permalink: http://home.ustc.edu.cn/~andrewwu/dei.html
 ---
