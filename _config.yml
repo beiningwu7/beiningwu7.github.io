@@ -107,6 +107,11 @@ kramdown:
       line_numbers: false
       start_line: 1
 
+# markdown: redcarpet
+# redcarpet:
+#   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
+
 # Includes & excludes
 include: ['_pages']
 exclude:
