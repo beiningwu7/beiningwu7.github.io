@@ -20,8 +20,9 @@ permalink: /edu
 - Rank: 2/75 among all students major in statistics, before Spring 2021 semester.
 
 <hr>
-
 ### Selected Courses
+
+**\* represents graduate level courses**
 
 #### Probability and Statistics
 

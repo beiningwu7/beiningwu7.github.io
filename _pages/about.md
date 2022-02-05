@@ -6,6 +6,9 @@ subtitle: <a href='https://stat.ustc.edu.cn'>Department of Statistics and Financ
 profile:
   align: right
   image: prof_pic.jpg
+  address: >
+    <p>Hishiro Chizuru, 日代 千鶴.</p>
+    <p>My favorite anime character from 《ReLife》.</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -18,5 +21,4 @@ Welcome to my homepage! My name is Beining Wu (吴贝宁). Now I'm a junior unde
 I'll apply for Ph.D. programs in fall 2023.
 
 The page is still under construction. Feel free to look around.
-
 
