@@ -5,4 +5,3 @@ inline: true
 ---
 
 Nature Education Technologies Ltd. is recruting competitive people! Applicants should be very competitive. Send your CV to luodalong2001@gmail.com for the working oppoturnities!
-
