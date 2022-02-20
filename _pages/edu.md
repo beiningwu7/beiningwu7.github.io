@@ -14,10 +14,10 @@ permalink: /edu
 
 ### Academic Performance
 
-- Overall GPA: 4.05
+- Overall GPA: 4.06
 - Major GPA: 4.09
 - Weighted Average: 92.68, with 131 credits
-- Rank: 2/75 among all students major in statistics, before Spring 2021 semester.
+- Rank: 2/75 among all students major in statistics, before Spring 2022 semester.
 
 <hr>
 ### Selected Courses

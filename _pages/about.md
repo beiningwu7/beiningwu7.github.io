@@ -7,8 +7,8 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Hishiro Chizuru, 日代 千鶴.</p>
-    <p>My favorite anime character from 《ReLife》.</p>
+    <p>Taken in Guangmingding,</p>
+    <p>Huangshan, Feburary 2022</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
