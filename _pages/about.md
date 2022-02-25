@@ -7,8 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Taken in Guangmingding,</p>
-    <p>Huangshan, Feburary 2022</p>
+    <center>Taken in Huangshan, Feb. 2022</center>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
