@@ -1,37 +1,18 @@
-<footer class="site-footer">
+<footer class="pt-5 my-5 text-muted border-top">
+  <h5 id="contact">Contact</h5>
+  <p>andrewwu0718 at gmail dot com<br>
+  320-322, East Campus, USTC<br>
+  230026 Hefei, China</p>
 
-  <div class="container">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-            <li>WeChat ID: beiningwu0817</li>
-            <li>QQ ID: 393678943</li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>&copy; Copyright {{ site.time | date: "%Y" }} Beining Wu. University of Science and Technology of China. <br />
-        {{ site.footer_text }}</p>
-      </div>
-    </div>
-
-  </div>
+<p>
+  <a href="https://github.com/beiningwu7" target="_blank">GitHub</a> 
+ | 
+<a href="https://twitter.com/beining_wu" target="_blank">Twitter</a>
+ | 
+ <a href="./assets/wechat.png" target="_blank">WeChat</a></p>
+ 
+ <p>Last update: Feb 4, 2023</p>
 
 </footer>
+
+

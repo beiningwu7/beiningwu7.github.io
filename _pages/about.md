@@ -1,27 +1,15 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
-subtitle: <a href='https://stat.ustc.edu.cn'>Department of Statistics and Finance, SOM, University of Science and Technology of China</a>.
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <center>Taken in Huangshan, Feb. 2022</center>
-
-news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
 
-Welcome to my homepage! My name is Beining Wu (吴贝宁). Now I'm a junior undergraduate from <i><a href="https://bs.ustc.edu.cn">the School of Management</a>, <a href="https://www.ustc.edu.cn">University of Science and Technology of China</a></i>. I'm pursuing a B.S. degree in <b>statistics</b>. 
+I'm a senior undergraduate student in the <a href="https://bs.ustc.edu.cn">Department of Statistics and Finance</a>, <a href="https://www.ustc.edu.cn">University of Science and Technology of China(USTC)</a>. In the year of 2022, I received the 42-nd Guo Muoruo scholarship, the highest honor for undergraduates in USTC. 
 
-My recent resarch interests contain high dimensional statistical inference with applications to machine learning problem, network analysis and reinforcement learning theory. 
+Currently I'm working with <a href="purplebamboo1993.github.io">Dr. Ziwei Zhu</a>, who was an Assistant Professor at University of Michigan. I'm also very fortunate to be advised by <a href="https://sites.harvard.edu/junliu/">Prof. Jun S. Liu<a> from Harvard University on specific projects. 
+In spring 2023, I'll join the Department of Computer Science at the University of Hong Kong as a junior research assistant, advised by Prof. Difan Zou. 
 
-Curruntly, I'm doing an undergraduate research program under the supervision of <a href="http://staff.ustc.edu.cn/~zwp">Prof. Weiping Zhang</a> from USTC. We are paying attention to the eimpirical process and its applications to statistical machine learning.
-
-I'll apply for statistics or eecs Ph.D. programs in fall 2023. 
-
-The page is still under construction. Feel free to look around.
-
-My hometown sits near 30°N, 120°E.
-
+My recent research interests cover high dimensional statistics, optimization theory and modern learning theory. 

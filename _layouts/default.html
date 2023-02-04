@@ -13,18 +13,18 @@ layout: parse
   </head>
 
   <!-- Body -->
-  <body class="{%- if site.navbar_fixed -%}fixed-top-nav{%- endif -%} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
-
-    <!-- Header -->
-    {%- include header.html %}
-
-    <!-- Content -->
-    <div class="container mt-5">
+  
+  <body>
+  
+  
+  <!-- Content -->
+  <div class="container mt-2">
+    {% include header.html %}
+  </div>
+  <div class="container mt-5">
       {{ content }}
+      {% include footer.html %}
     </div>
-
-    <!-- Footer -->
-    {%- include footer.html %}
 
     <!-- JavaScripts -->
     {% include scripts/jquery.html %}

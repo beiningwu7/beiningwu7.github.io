@@ -4,8 +4,15 @@
 
 // Typography
 
-p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
-  color: var(--global-text-color);
+h1, h2, h3, h4, h5, h6 {
+  color: var(--global-text-color-light);
+  font-family: $font-family;
+}
+
+p, em, div, li, span, strong {
+  color: var(--global-text-color-light);
+  font-family: $font-family;
+  font-size: 10.5pt;
 }
 
 hr {
@@ -102,6 +109,9 @@ blockquote {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0.3in;
 }
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
@@ -254,13 +264,13 @@ footer.fixed-bottom {
 }
 
 footer.sticky-bottom {
-  border-top: 1px solid var(--global-divider-color);
+  // border-top: 1px solid var(--global-divider-color);
   padding-top: 40px;
   padding-bottom: 40px;
   font-size: 0.9rem;
 }
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  // border-top: 1px solid $grey-color-light;
   padding: $vertical-spacing-unit 0;
 
   a {
@@ -314,7 +324,6 @@ footer.sticky-bottom {
 .contact-list,
 .social-media-list {
   list-style: none;
-  margin-left: 0;
 }
 
 .footer-col-wrapper {

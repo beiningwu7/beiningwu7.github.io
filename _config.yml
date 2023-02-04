@@ -4,7 +4,7 @@
 title: Beining Wu's Homepage # the website title (if blank, full name will be used instead)
 author: Beining Wu
 first_name: Beining
-middle_name: A.
+# middle_name: A.
 last_name: Wu
 email: andrewwu@mail.ustc.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -35,7 +35,7 @@ navbar_fixed: false
 footer_fixed: false
 
 # Dimensions
-max_width: 1000px
+max_width: 1200px
 
 # TODO: add layout settings (single page vs. multi-page)
 
