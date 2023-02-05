@@ -5,6 +5,8 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
+
+# news: true
 ---
 
 I'm a senior undergraduate student in the <a href="https://bs.ustc.edu.cn">Department of Statistics and Finance</a>, <a href="https://www.ustc.edu.cn">University of Science and Technology of China (USTC)</a>. In the year of 2022, I received the 42-nd Guo Muoruo scholarship, the highest honor for undergraduates in USTC.

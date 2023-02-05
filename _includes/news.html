@@ -1,8 +1,8 @@
           
           <div class="news">
-            <h2>Recent News</h2>
+            <h5>Recent News</h5>
             {% if site.news  -%} 
-            <div class="table-responsive">
+            <div class="table-responsive table-borderless">
               <table class="table table-sm table-borderless">
               {%- assign news = site.news | reverse -%} 
               {% for item in news limit: site.news_limit %} 
