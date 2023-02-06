@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-title: Beining Wu ｜  # the website title (if blank, full name will be used instead)
+title: Beining Wu  # the website title (if blank, full name will be used instead)
 author: Beining Wu
 first_name: Beining
 last_name: Wu
@@ -39,15 +39,7 @@ serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
-# -----------------------------------------------------------------------------
-# Social integration
-# -----------------------------------------------------------------------------
 
-github_username: beiningwu7 # your GitHub user name
-twitter_username: beining_wu # your Twitter handle
-
-contact_note: >
-  WeChat ID: beiningwu0817, QQ: 393678943. Personal Email: andrewwu0718@gmail.com
   
 # -----------------------------------------------------------------------------
 # Blog
@@ -236,10 +228,10 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false  # enables google analytics
+enable_google_analytics:    true  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
-enable_google_verification: false  # enables google site verification
-enable_bing_verification:   false  # enables bing site verification
+enable_google_verification: true  # enables google site verification
+enable_bing_verification:   true  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated
