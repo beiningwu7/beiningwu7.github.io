@@ -170,8 +170,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: [Wu]
+  first_name: [Beining]
 
   style: apa
   locale: en
